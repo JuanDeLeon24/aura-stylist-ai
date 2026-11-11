@@ -1,0 +1,24 @@
+{
+  "name": "aura-stylist-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AuraStylist AI — clóset digital, colorimetría, outfits y maleta inteligente.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "vite": "^6.0.0"
+  }
+}
